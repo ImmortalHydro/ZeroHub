@@ -40,7 +40,7 @@ window.onload = function() {
 
       var title = document.createElement('h1')
       title.setAttribute('id', 'title')
-      title.textContent = '𝖦𝗈𝗃𝗈𝖳𝗎𝖻𝖾 🎭'
+      title.textContent = '[ZeroHub](https://t.me/ImmortalHydro)'
 
       title_inner_container.append(title)
       title_container.append(title_inner_container)
