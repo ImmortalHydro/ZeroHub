@@ -30,7 +30,7 @@ Welcome to **ZeroHub**! This is a simple and customizable chat room application 
 
 ## Demo
 
-Check out the live demo of ZeroHub at [ZeroHub Live Demo](https://your-live-demo-link.com) (replace with actual link).
+Check out the live demo of ZeroHub at [ZeroHub Live Demo](https://immortalhydro.github.io/ZeroHub/) (replace with actual link).
 
 ## Technologies Used
 
