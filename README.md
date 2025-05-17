@@ -1,6 +1,6 @@
-# Sure! Here’s an expanded version of the README for your GitHub repository "ZeroHub," with more detailed sections and additional information to provide a comprehensive overview of the project.
 
-# ZeroHub
+
+# ZeroHub [0](https://i.imgur.com/ZVW6JMA.mp4)
 
 Welcome to **ZeroHub**! This is a simple and customizable chat room application that allows users to create their own chatting rooms. Whether you're looking to set up a space for friends, community discussions, or team collaboration, ZeroHub provides a solid foundation for building your own chat environment.
 
