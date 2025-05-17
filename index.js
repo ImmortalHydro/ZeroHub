@@ -40,7 +40,7 @@ window.onload = function() {
 
       var title = document.createElement('h1')
       title.setAttribute('id', 'title')
-      title.textContent = '[ZeroHub](https://t.me/ImmortalHydro)'
+      title.textContent = 'ZeroHub Cloner'
 
       title_inner_container.append(title)
       title_container.append(title_inner_container)
@@ -69,7 +69,7 @@ window.onload = function() {
       var join_input = document.createElement('input')
       join_input.setAttribute('id', 'join_input')
       join_input.setAttribute('maxlength', 15)
-      join_input.placeholder = 'No.... It\'s Gojo of Six Eyes'
+      join_input.placeholder = 'Visit.... Immortal\'s Hydro on Telegram'
       // Every time we type into the join_input
       join_input.onkeyup  = function(){
         // If the input we have is longer that 0 letters
